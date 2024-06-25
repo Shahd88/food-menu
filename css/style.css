@@ -7,7 +7,7 @@ body {
     background-color: rgb(20, 18, 18);
     color: #dedede;
     height: 100vh;
-    background-image: url(/images/6e5c40657ec969d850ff246afcd4510e.png);
+    background-image: url(../images/6e5c40657ec969d850ff246afcd4510e.png);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 31%;
@@ -184,7 +184,7 @@ ul {
 
 .lower {
     display: flex;
-    height: 14rem;
+    height: 17rem;
     position: relative;
     bottom: -147px;
     background-color: rgba(72, 72, 74, 0.623);
@@ -216,7 +216,7 @@ ul {
     left: 28%;
     position: absolute;
     font-size: 40px;
-    margin: -21px;
+    margin: 0px;
 }
 
 .price {
